@@ -169,6 +169,7 @@ vxpt="80系端口、指定回源端口" cdnym="CF解析IP的域名" bash <(curl 
 ```
 * #### 如下图：节点IP、端口被封依旧可用！套CDN优选4大方案：[点击视频教程](https://youtu.be/RnUT1CNbCr8)
 * #### 目前vless-xhttp-v也支持CDN优选的方案1与2，端口变量vxpt
+* #### CDN优选域名：yg1.ygkkk.dpdns.org (yg1中的1，可换为1-11中任意数字，甬哥维护)
 
 <img width="1559" height="783" alt="42ecee8deeccdb808abcd635440eca30" src="https://github.com/user-attachments/assets/0938a398-9037-49a7-b08e-db5a6d65301c" />
 
