@@ -6,7 +6,7 @@ SAP个人注册地址：https://www.sap.com/products/technology-platform/trial.h
 
 ----------------------------------------- 
 
-#### 注意：目前以下三种方式的部署部分已不可用！！！
+#### 注意：目前以下三种方式自动部署，方式二与三带保活！！！
 
 * 方式一：[Github方式](https://github.com/yonggekkk/argosbx/blob/main/.github/workflows/main.yml)，请自建私库设置运行。安装启动同时进行，无定时保活
 
