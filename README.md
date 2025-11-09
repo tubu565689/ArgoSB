@@ -15,7 +15,7 @@
 
 #### 3、支持Docker镜像部署，公开镜像库：```ygkkk/argosbx```
 
-#### 4、支持NIX容器系统，特别推荐[IDX-Google](https://idx.google.com/)、[Clawcloud爪云](https://run.claw.cloud)、[CloudCat](https://cloud.cloudcat.one)、[Sap](https://github.com/yonggekkk/argosbx/blob/main/SAP.md)
+#### 4、支持NIX容器系统，特别推荐[IDX-Google](https://idx.google.com/)、[Clawcloud爪云](https://run.claw.cloud)、[CloudCat](https://cloud.cloudcat.one)、[Sap](https://github.com/yonggekkk/argosbx/blob/main/SAP.md)等……
 
 #### 5、根据Sing-box与Xray不同内核，可选15种WARP出站组合，更换落地IP为WARP的IP，解锁流媒体
 
@@ -23,6 +23,11 @@
 【 已支持：AnyTLS、Any-reality、Vless-xhttp-reality-v、Vless-tcp-reality-v、Vless-xhttp-v、Shadowsocks-2022、Vmess-ws、Socks5、Hysteria2、Tuic、Argo临时/固定隧道 】
 
 #### 7、如需要多样的功能，推荐使用VPS专用四合一脚本[Sing-box-yg](https://github.com/yonggekkk/sing-box-yg)
+
+#### 8、客户端推荐
+安卓手机客户端推荐：[Nekobox-starifly版](https://github.com/starifly/NekoBoxForAndroid/releases)
+
+电脑win客户端推荐：[V2rayN官方版](https://github.com/2dust/v2rayN/releases)
 
 ----------------------------------------------------------
 
