@@ -24,10 +24,11 @@
 
 #### 7、如需要多样的功能，推荐使用VPS专用四合一脚本[Sing-box-yg](https://github.com/yonggekkk/sing-box-yg)
 
-#### 8、客户端推荐
-安卓手机客户端推荐：[Nekobox-starifly版](https://github.com/starifly/NekoBoxForAndroid/releases)
+#### 8、Argosbx客户端推荐：
 
-电脑win客户端推荐：[V2rayN官方版](https://github.com/2dust/v2rayN/releases)
+安卓手机客户端 (Argosbx全协议支持)：[Nekobox-starifly版](https://github.com/starifly/NekoBoxForAndroid/releases)
+
+电脑win客户端 (Argosbx全协议支持)：[V2rayN官方版](https://github.com/2dust/v2rayN/releases)
 
 ----------------------------------------------------------
 
