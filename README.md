@@ -174,10 +174,10 @@ Vless-Xhttp-V的80系端口、回源端口的CDN优选节点
 vxpt="80系端口、指定回源端口" cdnym="CF解析IP的域名" bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/argosbx/main/argosbx.sh)
 ```
 * #### 如下图：节点IP、端口被封依旧可用！套CDN优选4大方案：[点击视频教程](https://youtu.be/RnUT1CNbCr8)
-* #### 目前vless-xhttp-v也支持CDN优选的方案1与2，端口变量vxpt
-* #### CDN优选域名：yg1.ygkkk.dpdns.org (yg1中的1，可换为1-11中任意数字，甬哥维护)
+* #### 更新：vless-xhttp-v也支持CDN优选的方案1与2，方案1支持一个443端口，且一个443端口在免费域名80系端口不可用的情况下依旧可用
+* #### 更新：CDN优选域名：yg1.ygkkk.dpdns.org (yg1中的1，可换为1-11中任意数字，甬哥维护)
 
-<img width="1571" height="783" alt="0db7531acfe4e2151f60bee43f5191ea" src="https://github.com/user-attachments/assets/66cec554-326a-46fc-934f-5f073449ccef" />
+<img width="1571" height="783" alt="248b3a88d128528374b06c557ccb8908" src="https://github.com/user-attachments/assets/a515e13e-5fb4-4f09-9cfc-8ce50a4cd97f" />
 
 ---------------------------------------------------------
 
