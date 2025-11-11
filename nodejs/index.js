@@ -16,7 +16,7 @@ const subtxt = `${process.env.HOME}/agsbx/jh.txt`;
 const NAME = process.env.NAME || os.hostname();
 const PORT = process.env.PORT || 3000;
 const uuid = process.env.uuid || '79411d85-b0dc-4cd2-b46c-01789a18c650';
-const DOMAIN = process.env.DOMAIN || 'YOUR-DOMAIN';
+const DOMAIN = process.env.DOMAIN || 'YOUR.DOMAIN';
 const vlessInfo = `vless://${uuid}@${DOMAIN}:443?encryption=none&security=tls&sni=${DOMAIN}&fp=chrome&type=ws&host=${DOMAIN}&path=%2F#Vl-ws-tls-${NAME}`;
 console.log(`vless-ws-tls节点分享: ${vlessInfo}`);
 
