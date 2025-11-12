@@ -161,7 +161,7 @@ vmpt="" argo="y" bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/arg
 
 Argo固定隧道CDN优选节点，必须填写端口(vmpt)、域名(agn)、token(agk)
 ```
-vmpt="端口" argo="y" agn="解析的CF域名" agk="CF获取的token" bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/argosbx/main/argosbx.sh)
+vmpt="CF设置的URL端口" argo="y" agn="解析的CF域名" agk="CF获取的token" bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/argosbx/main/argosbx.sh)
 ```
 
 Vmess-ws的80系端口、回源端口的CDN优选节点
